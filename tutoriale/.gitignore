@@ -1,0 +1,29 @@
+#JAVA 
+
+*.class
+
+
+#Logs
+
+*.log
+
+
+#ECLIPSE /STS 
+.metadata/
+.settings/ 
+.project
+.classpath
+.springBeans
+
+
+#SO
+
+
+.DS_Store
+Thumbs.db
+
+
+#VARIABLES ENTORNO
+.env 
+.env .*
+
