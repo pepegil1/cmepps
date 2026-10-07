@@ -6,6 +6,11 @@ public class HolaMundo {
 		System.out.println("Hola CMEEPS¡¡");
 		System.out.println("Bienvenidos al curso");
 		
+		
+		String name="Manuel";
+		
+		System.out.println("Hola, " +name);
+		
 
 	}
 
